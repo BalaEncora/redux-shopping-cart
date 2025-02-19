@@ -6,23 +6,19 @@ const Footer = () => {
             <footer id="footer">
                 <div className="container">
                     <a
-                        href="https://github.com/gulshancodes/redux-shopping-cart"
+                        href="https://github.com/BalaEncora/redux-shopping-cart.git"
                         className="repo_link"
                         target="_blank"
                         rel="noreferrer"
                     >
-                        github.com/gulshancodes/redux-shopping-cart
+                        github.com/BalaEncora/redux-shopping-cart.git
                     </a>
 
                     <p>
                         Built by | &nbsp;
-                        <a
-                            href="https://gulshansongara.netlify.app"
-                            target="_blank"
-                            rel="noreferrer"
-                        >
+                       
                             BalaMurugan - Dhanabal
-                        </a>
+                        
                     </p>
                 </div>
             </footer>
